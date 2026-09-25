@@ -1,0 +1,25 @@
+{
+    "results": {
+        "arc_challenge": {
+            "alias": "arc_challenge",
+            "acc,none": 0.30716723549488056,
+            "acc_stderr,none": 0.013481034054980945,
+            "acc_norm,none": 0.3387372013651877,
+            "acc_norm_stderr,none": 0.013830568927974332
+        },
+        "hellaswag": {
+            "alias": "hellaswag",
+            "acc,none": 0.4063931487751444,
+            "acc_stderr,none": 0.00490155813233552,
+            "acc_norm,none": 0.5244971121290579,
+            "acc_norm_stderr,none": 0.0049837889926812075
+        },
+        "piqa": {
+            "alias": "piqa",
+            "acc,none": 0.7034820457018498,
+            "acc_stderr,none": 0.010656078922661136,
+            "acc_norm,none": 0.7013057671381937,
+            "acc_norm_stderr,none": 0.01067855639814923
+        }
+    }
+}

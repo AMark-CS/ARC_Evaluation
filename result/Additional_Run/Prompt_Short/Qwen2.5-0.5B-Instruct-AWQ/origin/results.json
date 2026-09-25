@@ -1,0 +1,25 @@
+{
+    "results_Prompt_Short_Qwen2.5-0.5B-Instruct-AWQ_origin": {
+        "arc_challenge": {
+            "alias": "arc_challenge",
+            "acc,none": 0.28071672354948807,
+            "acc_stderr,none": 0.01313123812697558,
+            "acc_norm,none": 0.3430034129692833,
+            "acc_norm_stderr,none": 0.013872423223718166
+        },
+        "hellaswag": {
+            "alias": "hellaswag",
+            "acc,none": 0.39165504879506075,
+            "acc_stderr,none": 0.0048712266293464,
+            "acc_norm,none": 0.49880501892053375,
+            "acc_norm_stderr,none": 0.0049897671608113555
+        },
+        "piqa": {
+            "alias": "piqa",
+            "acc,none": 0.6898803046789989,
+            "acc_stderr,none": 0.01079187656684304,
+            "acc_norm,none": 0.6947769314472253,
+            "acc_norm_stderr,none": 0.01074426704560648
+        }
+    }
+}

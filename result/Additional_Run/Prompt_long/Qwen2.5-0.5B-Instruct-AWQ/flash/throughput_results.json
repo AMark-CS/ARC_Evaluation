@@ -1,0 +1,5 @@
+{
+    "name":"Qwen2.5-0.5B-AWQ_flash",
+    "prefill_throughput": 4566.776843307041,
+    "decode_throughput": 27.81317537302066
+}

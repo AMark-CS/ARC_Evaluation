@@ -1,0 +1,5 @@
+{
+    "name":"Qwen2.5-0.5B_origin",
+    "prefill_throughput": 9669.14860158572,
+    "decode_throughput": 44.9340652705591
+}

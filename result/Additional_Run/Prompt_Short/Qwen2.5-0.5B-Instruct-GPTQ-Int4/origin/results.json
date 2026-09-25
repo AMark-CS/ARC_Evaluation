@@ -1,0 +1,25 @@
+{
+    "results_Prompt_Short_Qwen2.5-0.5B-Instruct-GPTQ-Int4_origin": {
+        "arc_challenge": {
+            "alias": "arc_challenge",
+            "acc,none": 0.2841296928327645,
+            "acc_stderr,none": 0.013179442447653887,
+            "acc_norm,none": 0.3097269624573379,
+            "acc_norm_stderr,none": 0.013512058415238363
+        },
+        "hellaswag": {
+            "alias": "hellaswag",
+            "acc,none": 0.3891655048795061,
+            "acc_stderr,none": 0.004865645485910423,
+            "acc_norm,none": 0.49362676757618007,
+            "acc_norm_stderr,none": 0.004989376044184159
+        },
+        "piqa": {
+            "alias": "piqa",
+            "acc,none": 0.6920565832426551,
+            "acc_stderr,none": 0.010770892367463676,
+            "acc_norm,none": 0.690424374319913,
+            "acc_norm_stderr,none": 0.010786656752183345
+        }
+    }
+}

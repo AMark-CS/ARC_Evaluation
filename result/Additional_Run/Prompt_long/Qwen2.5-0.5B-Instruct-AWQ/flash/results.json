@@ -1,0 +1,25 @@
+{
+    "results_Prpompt_long_Qwen2.5-0.5B-Instruct-AWQ_flash": {
+        "arc_challenge": {
+            "alias": "arc_challenge",
+            "acc,none": 0.2781569965870307,
+            "acc_stderr,none": 0.013094469919538805,
+            "acc_norm,none": 0.3412969283276451,
+            "acc_norm_stderr,none": 0.013855831287497726
+        },
+        "hellaswag": {
+            "alias": "hellaswag",
+            "acc,none": 0.3919537940649273,
+            "acc_stderr,none": 0.004871887422893579,
+            "acc_norm,none": 0.49810794662417845,
+            "acc_norm_stderr,none": 0.0049897456858204285
+        },
+        "piqa": {
+            "alias": "piqa",
+            "acc,none": 0.6898803046789989,
+            "acc_stderr,none": 0.01079187656684304,
+            "acc_norm,none": 0.6953210010881393,
+            "acc_norm_stderr,none": 0.01073888904432516
+        }
+    }
+}

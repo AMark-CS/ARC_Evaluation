@@ -1,0 +1,25 @@
+{
+    "results_Prompt_Short_Qwen2.5-0.5B_memory_24G": {
+        "arc_challenge": {
+            "alias": "arc_challenge",
+            "acc,none": 0.295221843003413,
+            "acc_stderr,none": 0.01332975029338232,
+            "acc_norm,none": 0.3242320819112628,
+            "acc_norm_stderr,none": 0.013678810399518813
+        },
+        "hellaswag": {
+            "alias": "hellaswag",
+            "acc,none": 0.40599482174865564,
+            "acc_stderr,none": 0.00490079886804813,
+            "acc_norm,none": 0.5217088229436367,
+            "acc_norm_stderr,none": 0.00498507609446476
+        },
+        "piqa": {
+            "alias": "piqa",
+            "acc,none": 0.7007616974972797,
+            "acc_stderr,none": 0.010684130673134581,
+            "acc_norm,none": 0.6991294885745375,
+            "acc_norm_stderr,none": 0.010700745724145973
+        }
+    }
+}
